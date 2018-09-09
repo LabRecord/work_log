@@ -8,4 +8,4 @@ work log
 ------
 # Some Links
   - [CSRankings: Computer Science Rankings](http://csrankings.org/)
-  - [CMU~Graduate Education~School of Computer Science (SCS)](https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
+  - [CMU\~Graduate Education\~School of Computer Science (SCS)](https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
