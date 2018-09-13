@@ -10,3 +10,6 @@ work log
   - [CSRankings: Computer Science Rankings](http://csrankings.org/)
   - [CMU\~Graduate Education\~School of Computer Science (SCS)](https://www.cmu.edu/graduate/academics/guide-to-graduate-degrees-and-programs/school-of-computer-science.html)
   - [CMU\~MSAII (Master of Science in Artificial Intelligence and Innovation)](https://msaii.cs.cmu.edu/)
+  - [CMU\~SCS](https://www.scs.cmu.edu/masters-programs)
+  - [CMU\~INI](https://www.cmu.edu/ini/academics/)
+  - [CMU\~ECE](https://www.ece.cmu.edu/academics/ms-se/index.html)
