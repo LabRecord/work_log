@@ -15,3 +15,4 @@ work log
   - [CMU\~ECE](https://www.ece.cmu.edu/academics/ms-se/index.html)
   - [Tsinghua University Library](http://www.lib.tsinghua.edu.cn/index.html)
   - [Elsevier ScienceDirect](https://www.sciencedirect.com/)
+  - [Elsevier CS Journals & Books](https://www.sciencedirect.com/browse/journals-and-books?subject=computer-science)
