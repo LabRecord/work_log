@@ -14,3 +14,4 @@ work log
   - [CMU\~INI](https://www.cmu.edu/ini/academics/)
   - [CMU\~ECE](https://www.ece.cmu.edu/academics/ms-se/index.html)
   - [Tsinghua University Library](http://www.lib.tsinghua.edu.cn/index.html)
+  - [Elsevier ScienceDirect](https://www.sciencedirect.com/)
