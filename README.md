@@ -13,3 +13,4 @@ work log
   - [CMU\~SCS](https://www.scs.cmu.edu/masters-programs)
   - [CMU\~INI](https://www.cmu.edu/ini/academics/)
   - [CMU\~ECE](https://www.ece.cmu.edu/academics/ms-se/index.html)
+  - [Tsinghua University Library](http://www.lib.tsinghua.edu.cn/index.html)
