@@ -17,3 +17,4 @@ work log
   - [Elsevier ScienceDirect](https://www.sciencedirect.com/)
   - [Elsevier CS Journals & Books](https://www.sciencedirect.com/browse/journals-and-books?subject=computer-science)
   - [top zhan TOEFL](http://top.zhan.com/toefl/)
+  - [Top Computer Science Conferences](http://www.guide2research.com/topconf/)
