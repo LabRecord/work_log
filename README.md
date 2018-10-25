@@ -26,4 +26,5 @@ work log
   - [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
   - [James Gosling](https://en.wikipedia.org/wiki/James_Gosling)
   - [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
+  - [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
   - []()
