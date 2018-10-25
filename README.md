@@ -32,4 +32,4 @@ work log
   - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
   - [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)
   - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
-  - []()
+  - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
