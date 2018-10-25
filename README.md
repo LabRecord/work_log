@@ -30,4 +30,5 @@ work log
   - [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
   - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan)
   - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+  - [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)
   - []()
