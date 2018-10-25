@@ -20,5 +20,7 @@ work log
   - [Top Computer Science Conferences](http://www.guide2research.com/topconf/)
   
   ------
-  # The Greatest 12 Programmers In History
-    - [Ada Lovelace](https://zh.wikipedia.org/wiki/%E6%84%9B%E9%81%94%C2%B7%E5%8B%92%E8%8A%99%E8%95%BE%E7%B5%B2)
+# The Greatest 12 Programmers In History
+  - [Ada Lovelace](https://zh.wikipedia.org/wiki/%E6%84%9B%E9%81%94%C2%B7%E5%8B%92%E8%8A%99%E8%95%BE%E7%B5%B2)
+  - [Niklaus Wirth](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%E5%8A%B3%E6%96%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%89%B9)
+  - []()
