@@ -25,3 +25,5 @@ work log
   - [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
   - [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
   - [James Gosling](https://en.wikipedia.org/wiki/James_Gosling)
+  - [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
+  - []()
