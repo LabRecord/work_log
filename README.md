@@ -18,3 +18,7 @@ work log
   - [Elsevier CS Journals & Books](https://www.sciencedirect.com/browse/journals-and-books?subject=computer-science)
   - [top zhan TOEFL](http://top.zhan.com/toefl/)
   - [Top Computer Science Conferences](http://www.guide2research.com/topconf/)
+  
+  ------
+  # The Greatest 12 Programmers In History
+    - [Ada Lovelace](https://zh.wikipedia.org/wiki/%E6%84%9B%E9%81%94%C2%B7%E5%8B%92%E8%8A%99%E8%95%BE%E7%B5%B2)
