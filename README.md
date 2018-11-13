@@ -18,6 +18,7 @@ work log
   - [Elsevier CS Journals & Books](https://www.sciencedirect.com/browse/journals-and-books?subject=computer-science)
   - [top zhan TOEFL](http://top.zhan.com/toefl/)
   - [Top Computer Science Conferences](http://www.guide2research.com/topconf/)
+  - [harvardnlp](http://nlp.seas.harvard.edu/)
   
   ------
 # The Greatest 12 Programmers In History
